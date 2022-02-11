@@ -4,7 +4,7 @@ import { FiChevronLeft, FiChevronRight } from 'react-icons/fi'
 
 export default function PesoBox({peso, handleClick}) {
   return (
-    <Flex direction={"column"} w={"20%"} h={"20%"} align="center" justify="space-between" p={"8"} bg={"gray.700"} boxShadow={"dark-lg"} rounded={"3xl"} mb={"10"}>
+    <Flex direction={"column"} w={"xs"} h={"3xs"} align="center" justify="space-between" p={"8"} bg={"gray.700"} boxShadow={"dark-lg"} rounded={"3xl"} mb={"10"}>
     <Stack direction={"row"}>
       <Button variant={"unstyled"} w={20} h={20} onClick={() => { handleClick(-0.5) }}>
         <Icon as={FiChevronLeft} w={20} h={20} color='gray.50' />

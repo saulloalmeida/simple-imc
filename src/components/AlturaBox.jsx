@@ -3,7 +3,7 @@ import { Box, Slider, SliderFilledTrack, SliderThumb, SliderTrack, Text } from "
 
 export default function AlturaBox({altura, handleOnChange}) {
     return (
-        <Box w={"20%"} h={"20%"} align="center" justify="center" bg={"gray.700"} p={"8"} boxShadow={"dark-lg"} rounded={"3xl"} mb={"10"}>
+        <Box w={"xs"} h={"3xs"} align="center" justify="center" bg={"gray.700"} m={"8"} p={"8"} boxShadow={"dark-lg"} rounded={"3xl"} mb={"10"}>
             <Text color={"gray.50"} fontSize={"3xl"}>{altura}</Text>
             <Text color={"gray.50"} fontSize={"lg"}>cm</Text>
             <Slider

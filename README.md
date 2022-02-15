@@ -4,6 +4,7 @@
     <img alt="Version" src="https://img.shields.io/npm/v/Simple BMI / IMC.svg">
   </a>
 </p>
+![project-screen](https://github.com/[saulloalmeida]/[simple-imc]/blob/[main]/project-screen.png?raw=true)
 
 > Calculadora simples de IMC - Simple Calculator BMI
 

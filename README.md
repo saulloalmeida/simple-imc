@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to Simple BMI / IMC 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/Simple BMI / IMC" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/Simple BMI / IMC.svg">
-  </a>
-</p>
 
 ![project-screen](https://raw.githubusercontent.com/saulloalmeida/simple-imc/main/project-screen.png?raw=true)
 
